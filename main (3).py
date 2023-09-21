@@ -22,7 +22,7 @@ class Bank_Account:
 
 
 
-Account=Bank_Account(account_number=1235778899,account_holder_name='Sanjay', initial_balance=5000.0)
+Account=Bank_Account(account_number=1235778899,account_holder_name='Senthi lkumar', initial_balance=5000.0)
 
 Account. display_balance () 
 Account. deposit(500.0)
